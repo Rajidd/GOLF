@@ -1,0 +1,25 @@
+form{
+    background-color: palevioletred;
+       width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+legend{
+    text-align: right;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+button{
+    height: 60px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+body{
+    background-color:maroon;
+}
+label{
+    width: 120px;
+    display: inline-block;
+}

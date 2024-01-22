@@ -1,0 +1,11 @@
+form{
+    background-color:lightskyblue;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+}
+legend{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
